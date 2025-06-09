@@ -1,2 +1,2 @@
 # 1-variant-site
-1 variant site
+Практика. 1 вариант
